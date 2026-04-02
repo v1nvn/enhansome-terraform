@@ -1,12 +1,12 @@
-# Awesome Terraform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 450,603 | 🐛 85 | 📅 2026-03-09 <!-- omit in toc --> with stars
+# Awesome Terraform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 450,945 | 🐛 66 | 📅 2026-04-01 <!-- omit in toc --> with stars
 
-[![Link Checker](https://github.com/shuaibiyy/awesome-tf/actions/workflows/link-checker.yml/badge.svg)](https://github.com/shuaibiyy/awesome-tf/actions/workflows/link-checker.yml) ⭐ 6,332 | 🐛 6 | 📅 2026-03-29
-[![Misspell Check](https://github.com/shuaibiyy/awesome-tf/actions/workflows/misspell.yml/badge.svg)](https://github.com/shuaibiyy/awesome-tf/actions/workflows/misspell.yml) ⭐ 6,332 | 🐛 6 | 📅 2026-03-29
-[![Not Found Check](https://github.com/shuaibiyy/awesome-tf/actions/workflows/notfound.yml/badge.svg)](https://github.com/shuaibiyy/awesome-tf/actions/workflows/notfound.yml) ⭐ 6,332 | 🐛 6 | 📅 2026-03-29
+[![Link Checker](https://github.com/shuaibiyy/awesome-tf/actions/workflows/link-checker.yml/badge.svg)](https://github.com/shuaibiyy/awesome-tf/actions/workflows/link-checker.yml) ⭐ 6,332 | 🐛 7 | 📅 2026-03-29
+[![Misspell Check](https://github.com/shuaibiyy/awesome-tf/actions/workflows/misspell.yml/badge.svg)](https://github.com/shuaibiyy/awesome-tf/actions/workflows/misspell.yml) ⭐ 6,332 | 🐛 7 | 📅 2026-03-29
+[![Not Found Check](https://github.com/shuaibiyy/awesome-tf/actions/workflows/notfound.yml/badge.svg)](https://github.com/shuaibiyy/awesome-tf/actions/workflows/notfound.yml) ⭐ 6,332 | 🐛 7 | 📅 2026-03-29
 
 > A curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/).
 > [<img src="https://raw.githubusercontent.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
-> Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) ⭐ 6,332 | 🐛 6 | 📅 2026-03-29 are welcome!
+> Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) ⭐ 6,332 | 🐛 7 | 📅 2026-03-29 are welcome!
 
 Terraform enables you to safely and predictably create, change, and improve production infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
@@ -61,8 +61,8 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 ## Community
 
-* [Terraform Bug Tracker](https://github.com/hashicorp/terraform/issues) ⭐ 48,010 | 🐛 1,888 | 🌐 Go | 📅 2026-03-31
-* [The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns](https://github.com/antonbabenko/terraform-skill) ⭐ 1,455 | 🐛 5 | 📅 2026-02-02 - Get instant guidance on testing strategies, module patterns, CI/CD workflows, and production-ready infrastructure code.
+* [Terraform Bug Tracker](https://github.com/hashicorp/terraform/issues) ⭐ 48,004 | 🐛 1,887 | 🌐 Go | 📅 2026-04-01
+* [The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns](https://github.com/antonbabenko/terraform-skill) ⭐ 1,466 | 🐛 5 | 📅 2026-02-02 - Get instant guidance on testing strategies, module patterns, CI/CD workflows, and production-ready infrastructure code.
 * [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture) ⭐ 380 | 🐛 1 | 🌐 HCL | 📅 2022-02-09 :skull:
 * [Complete Terraform documentation as PDF files (Updated nightly)](https://github.com/antonbabenko/terraform-docs-as-pdf) ⭐ 209 | 🐛 6 | 🌐 Shell | 📅 2025-10-30 :skull:
 * [Terraform AWS Modules](https://github.com/terraform-aws-modules) + [meta-configurations repository](https://github.com/terraform-aws-modules/meta) ⭐ 80 | 🐛 0 | 🌐 HCL | 📅 2022-04-28
@@ -86,7 +86,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [IaC starting with Terraform (Korean)](https://product.kyobobook.co.kr/detail/S000202478097)
 * [Infrastructure as Code](http://shop.oreilly.com/product/0636920039297.do)
 * [Patterns and Practices for Infrastructure as Code: With examples in Python and Terraform](https://www.manning.com/books/infrastructure-as-code-patterns-and-practices)
-* [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook](https://github.com/antonbabenko/terraform-best-practices) ⭐ 2,440 | 🐛 14 | 🌐 HCL | 📅 2026-03-20
+* [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook](https://github.com/antonbabenko/terraform-best-practices) ⭐ 2,440 | 🐛 15 | 🌐 HCL | 📅 2026-03-20
 * [Terraform Cookbook](https://www.amazon.com/Terraform-Cookbook-Efficiently-Infrastructure-platforms/dp/1800207557)
 * [Terraform for Ops e-book](https://www.terraformforops.com)
 * [Terraform in Action](https://www.manning.com/books/terraform-in-action)
@@ -126,7 +126,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 * [Terraforming 1Password](https://blog.1password.com/terraforming-1password/) - How 1Password migrated from CloudFormation to Terraform.
 * [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](https://web.archive.org/web/20170611135511/http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/) - Illustrates how easy it is to use the OpenStack Terraform provider to deploy a web server.
 * [Zero Downtime Updates with HashiCorp Terraform](https://www.hashicorp.com/en/blog/zero-downtime-updates-with-terraform) - Ensuring zero downtime of your infrastructure.
-* [Google Cloud Platform for 10$ a month using terraform](https://github.com/nufailtd/terraform-budget-gcp) ⭐ 49 | 🐛 0 | 🌐 HCL | 📅 2021-07-15 - Shows how to use terraform to create a secure Google Kubernetes Cluster, Google Cloud Run Services and other infrastructure elements for less than [10$](https://nufailtd.github.io/budget-gcp/) a month.
+* [Google Cloud Platform for 10$ a month using terraform](https://github.com/nufailtd/terraform-budget-gcp) ⭐ 48 | 🐛 0 | 🌐 HCL | 📅 2021-07-15 - Shows how to use terraform to create a secure Google Kubernetes Cluster, Google Cloud Run Services and other infrastructure elements for less than [10$](https://nufailtd.github.io/budget-gcp/) a month.
 * [Infracost + Terraform + GitHub Actions = Automate Cloud Cost Management](https://medium.com/better-programming/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834) - How to use Infracost as the guardrail to manage cloud cost during Terraform development.
 * [How To Wrap Your Terraform Provider for Pulumi](https://www.speakeasyapi.dev/post/pulumi-terraform-provider) - Making your terraform provider pulumi-ready
 
@@ -169,7 +169,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 
 For more Community Modules not listed here please see the [Terraform Module Registry](https://registry.terraform.io/).
 
-* [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) ⭐ 4,915 | 🐛 17 | 🌐 HCL | 📅 2026-03-18 - Creates Elastic Kubernetes Service on AWS (very popular module).
+* [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) ⭐ 4,915 | 🐛 17 | 🌐 HCL | 📅 2026-04-02 - Creates Elastic Kubernetes Service on AWS (very popular module).
 * [terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) ⭐ 3,217 | 🐛 27 | 🌐 HCL | 📅 2026-01-08 - Creates VPC resources on AWS (verified and very popular module).
 * [segmentio/stack](https://github.com/segmentio/stack) ⚠️ Archived - Configures production infrastructure with AWS, Docker, and ECS. :skull:
 * [typhoon](https://github.com/poseidon/typhoon) ⭐ 2,040 | 🐛 12 | 🌐 HCL | 📅 2026-03-30 - Minimal and free Kubernetes distribution with Terraform.
@@ -179,9 +179,9 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform-google-project-factory](https://github.com/terraform-google-modules/terraform-google-project-factory) ⭐ 940 | 🐛 18 | 🌐 HCL | 📅 2026-03-08 - Opinionated Google Cloud Platform project creation and configuration with Shared VPC, IAM, APIs, etc.
 * [terraform-aws-ec2-instance](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance) ⭐ 803 | 🐛 2 | 🌐 HCL | 📅 2026-03-26 - Creates EC2 instances on AWS.
 * [terraform-kubestack](https://github.com/kbst/terraform-kubestack) ⭐ 708 | 🐛 21 | 🌐 HCL | 📅 2026-03-05 - Kubestack is a framework for Kubernetes platform engineering teams to define the entire cloud native stack in one Terraform code base and continuously evolve the platform safely through GitOps.
-* [terraform-aws-ecs](https://github.com/terraform-aws-modules/terraform-aws-ecs) ⭐ 660 | 🐛 4 | 🌐 HCL | 📅 2026-03-18 - Creates AWS ECS resources on AWS.
+* [terraform-aws-ecs](https://github.com/terraform-aws-modules/terraform-aws-ecs) ⭐ 659 | 🐛 4 | 🌐 HCL | 📅 2026-03-18 - Creates AWS ECS resources on AWS.
 * [terraform-aws-security-group](https://github.com/terraform-aws-modules/terraform-aws-security-group) ⭐ 589 | 🐛 3 | 🌐 HCL | 📅 2025-10-21 - Creates EC2-VPC security groups on AWS (verified module).
-* [terraform-aws-s3-bucket](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket) ⭐ 576 | 🐛 5 | 🌐 HCL | 📅 2026-03-19 - Creates S3 bucket resources on AWS.
+* [terraform-aws-s3-bucket](https://github.com/terraform-aws-modules/terraform-aws-s3-bucket) ⭐ 576 | 🐛 7 | 🌐 HCL | 📅 2026-03-19 - Creates S3 bucket resources on AWS.
 * [terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) ⭐ 550 | 🐛 1 | 🌐 HCL | 📅 2026-01-08 - Creates Terraform configurations for running [Atlantis](https://runatlantis.io) on AWS Fargate. Github, Gitlab, and BitBucket are supported.
 * [terraform-aws-notify-slack](https://github.com/terraform-aws-modules/terraform-aws-notify-slack) ⭐ 493 | 🐛 3 | 🌐 Python | 📅 2026-03-11 - Creates SNS topic and Lambda function, which sends notifications to Slack.
 * [terraform-aws-alb](https://github.com/terraform-aws-modules/terraform-aws-alb) ⭐ 463 | 🐛 0 | 🌐 HCL | 📅 2026-01-08 - Creates Application load-balancer on AWS (verified module).
@@ -230,10 +230,10 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 ## Self-Hosted Registries
 
 * [citizen](https://github.com/outsideris/citizen) ⭐ 651 | 🐛 45 | 🌐 JavaScript | 📅 2024-10-12 - Private Terraform Module/Provider Registry
-* [terralist](https://github.com/terralist/terralist) ⭐ 478 | 🐛 9 | 🌐 Go | 📅 2026-03-30 - Terraform Private Registry for modules and providers manageable from a REST API.
-* [Terrareg](https://github.com/matthewjohn/terrareg) ⭐ 337 | 🐛 19 | 🌐 Python | 📅 2026-03-29 - Terraform module registry.
+* [terralist](https://github.com/terralist/terralist) ⭐ 479 | 🐛 9 | 🌐 Go | 📅 2026-04-01 - Terraform Private Registry for modules and providers manageable from a REST API.
+* [Terrareg](https://github.com/matthewjohn/terrareg) ⭐ 337 | 🐛 18 | 🌐 Python | 📅 2026-04-01 - Terraform module registry.
 * [boring-registry](https://github.com/boring-registry/boring-registry) ⭐ 262 | 🐛 32 | 🌐 Go | 📅 2026-04-01 - Private Terraform Module/Provider Registry with API key authentication and blob storage support
-* [tapir](https://github.com/PacoVK/tapir) ⭐ 236 | 🐛 27 | 🌐 Java | 📅 2026-03-26 - Private Terraform Registry.
+* [tapir](https://github.com/PacoVK/tapir) ⭐ 236 | 🐛 27 | 🌐 Java | 📅 2026-04-01 - Private Terraform Registry.
 * [anthology](https://github.com/erikvanbrakel/anthology) ⭐ 138 | 🐛 4 | 🌐 Go | 📅 2021-12-03 - Private Terraform registry implementation as an alternative to the official registry.
 * [nrkno/terraform-registry](https://github.com/nrkno/terraform-registry) ⭐ 117 | 🐛 22 | 🌐 Go | 📅 2026-03-25 - A private Terraform registry with modular store backends.
 * [philips-labs/terraform-registry](https://github.com/philips-labs/terraform-registry) ⭐ 107 | 🐛 5 | 🌐 Go | 📅 2026-02-11 - Terraform registry to serve arbitrary Terraform provider releases hosted on Github
@@ -249,9 +249,9 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ### Hashicorp supported providers
 
-* [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ⭐ 10,814 | 🐛 3,451 | 🌐 Go | 📅 2026-03-31 - Provider for Amazon Web Services.
-* [terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ⭐ 4,919 | 🐛 3,870 | 🌐 Go | 📅 2026-03-31 - Provider for Azure.
-* [terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ⭐ 2,598 | 🐛 2,452 | 🌐 Go | 📅 2026-04-01 - Provider for Google Cloud Platform.
+* [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ⭐ 10,816 | 🐛 3,445 | 🌐 Go | 📅 2026-04-01 - Provider for Amazon Web Services.
+* [terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ⭐ 4,920 | 🐛 3,846 | 🌐 Go | 📅 2026-04-01 - Provider for Azure.
+* [terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) ⭐ 2,597 | 🐛 2,452 | 🌐 Go | 📅 2026-04-02 - Provider for Google Cloud Platform.
 * [terraform-provider-kubernetes](https://github.com/hashicorp/terraform-provider-kubernetes) ⭐ 1,709 | 🐛 175 | 🌐 Go | 📅 2026-03-19 - Provider for Kubernetes.
 * [terraform-provider-helm](https://github.com/hashicorp/terraform-provider-helm) ⭐ 1,067 | 🐛 140 | 🌐 Go | 📅 2026-03-19 - Provider for Helm.
 * [terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere) ⭐ 669 | 🐛 126 | 🌐 Go | 📅 2026-03-30 - Provider for VMware vSphere.
@@ -259,39 +259,39 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ### Vendor supported providers
 
-* [terraform-provider-dominos](https://github.com/nat-henderson/terraform-provider-dominos) ⭐ 1,177 | 🐛 17 | 🌐 Go | 📅 2024-05-28 - Provider for Dominos Pizza.
-* [terraform-provider-github](https://github.com/integrations/terraform-provider-github) ⭐ 1,108 | 🐛 310 | 🌐 Go | 📅 2026-03-31 - Provider for GitHub.
+* [terraform-provider-dominos](https://github.com/nat-henderson/terraform-provider-dominos) ⭐ 1,178 | 🐛 17 | 🌐 Go | 📅 2024-05-28 - Provider for Dominos Pizza.
+* [terraform-provider-github](https://github.com/integrations/terraform-provider-github) ⭐ 1,111 | 🐛 315 | 🌐 Go | 📅 2026-03-31 - Provider for GitHub.
 * [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) ⭐ 907 | 🐛 336 | 🌐 Go | 📅 2026-03-30 - Provider to manage the settings of your [Keycloak](https://www.keycloak.org/) identity provider server.
 * [terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) ⭐ 698 | 🐛 58 | 🌐 Go | 📅 2026-03-26 - Provider for Hetzner Cloud.
-* [terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake) ⭐ 673 | 🐛 272 | 🌐 Go | 📅 2026-03-31 - Provider for Snowflake data warehouse.
-* [terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) ⭐ 652 | 🐛 643 | 🌐 Go | 📅 2026-04-01 - Provider for Alibaba Cloud.
-* [terraform-provider-digitalocean](https://github.com/digitalocean/terraform-provider-digitalocean) ⭐ 560 | 🐛 169 | 🌐 Go | 📅 2026-03-24 - Provider for DigitalOcean.
-* [terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) ⭐ 463 | 🐛 190 | 🌐 Go | 📅 2026-03-19 - Plugin for OpenStack.
-* [terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) ⭐ 441 | 🐛 340 | 🌐 Go | 📅 2026-03-31 - Provider for Datadog.
-* [terraform-provider-gitlab](https://github.com/gitlabhq/terraform-provider-gitlab) ⭐ 425 | 🐛 111 | 📅 2026-03-19 - Provider for GitLab.
+* [terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake) ⭐ 673 | 🐛 270 | 🌐 Go | 📅 2026-04-01 - Provider for Snowflake data warehouse.
+* [terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) ⭐ 652 | 🐛 648 | 🌐 Go | 📅 2026-04-01 - Provider for Alibaba Cloud.
+* [terraform-provider-digitalocean](https://github.com/digitalocean/terraform-provider-digitalocean) ⭐ 561 | 🐛 169 | 🌐 Go | 📅 2026-03-24 - Provider for DigitalOcean.
+* [terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) ⭐ 463 | 🐛 191 | 🌐 Go | 📅 2026-03-19 - Plugin for OpenStack.
+* [terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) ⭐ 441 | 🐛 337 | 🌐 Go | 📅 2026-04-01 - Provider for Datadog.
+* [terraform-provider-gitlab](https://github.com/gitlabhq/terraform-provider-gitlab) ⭐ 426 | 🐛 111 | 📅 2026-03-19 - Provider for GitLab.
 * [terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) ⭐ 421 | 🐛 209 | 🌐 Go | 📅 2026-03-27 - Provider for Azure DevOps (VSTS).
 * [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) ⭐ 360 | 🐛 749 | 🌐 Go | 📅 2026-03-31 - Provider for IBM Cloud.
 * [terraform-provider-iterative](https://github.com/iterative/terraform-provider-iterative) ⭐ 295 | 🐛 68 | 🌐 Go | 📅 2024-12-11 - Terraform plugin built with machine learning in mind.
-* [terraform-provider-rancher2](https://github.com/rancher/terraform-provider-rancher2) ⭐ 290 | 🐛 143 | 🌐 Go | 📅 2026-03-17 - Provider for Rancher v2.
+* [terraform-provider-rancher2](https://github.com/rancher/terraform-provider-rancher2) ⭐ 290 | 🐛 142 | 🌐 Go | 📅 2026-03-17 - Provider for Rancher v2.
 * [terraform-provider-artifactory](https://github.com/jfrog/terraform-provider-artifactory) ⭐ 286 | 🐛 58 | 🌐 Go | 📅 2026-03-20 - Provider for [JFrog Artifactory](https://jfrog.com/artifactory/).
 * [terraform-provider-stripe](https://github.com/franckverrot/terraform-provider-stripe) ⭐ 245 | 🐛 20 | 🌐 Go | 📅 2023-08-14 - Provider for Stripe.
-* [terraform-provider-azapi](https://github.com/Azure/terraform-provider-azapi) ⭐ 235 | 🐛 100 | 🌐 Go | 📅 2026-03-31 - Provider for Azure Resource Manager Rest API
-* [terraform-provider-elasticstack](https://github.com/elastic/terraform-provider-elasticstack) ⭐ 206 | 🐛 190 | 🌐 Go | 📅 2026-04-01 - Provider for Elasticsearch and Kibana.
-* [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) ⭐ 142 | 🐛 15 | 🌐 Go | 📅 2024-03-14 - Provider for [Spinnaker](https://spinnaker.io/).
+* [terraform-provider-azapi](https://github.com/Azure/terraform-provider-azapi) ⭐ 235 | 🐛 101 | 🌐 Go | 📅 2026-04-01 - Provider for Azure Resource Manager Rest API
+* [terraform-provider-elasticstack](https://github.com/elastic/terraform-provider-elasticstack) ⭐ 206 | 🐛 193 | 🌐 Go | 📅 2026-04-02 - Provider for Elasticsearch and Kibana.
+* [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) ⭐ 143 | 🐛 15 | 🌐 Go | 📅 2024-03-14 - Provider for [Spinnaker](https://spinnaker.io/).
 * [terraform-provider-k8s](https://github.com/banzaicloud/terraform-provider-k8s) ⭐ 135 | 🐛 23 | 🌐 Go | 📅 2022-09-08 - Simple Kubernetes Provider, works with any manifest.
 * [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) ⚠️ Archived - Provider to manage uptimerobot resources. :skull:
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) ⚠️ Archived - Provider to manage Pingdom resources. :skull:
-* [terraform-provider-panos](https://github.com/PaloAltoNetworks/terraform-provider-panos) ⭐ 108 | 🐛 154 | 🌐 Go | 📅 2026-03-05 - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
+* [terraform-provider-panos](https://github.com/PaloAltoNetworks/terraform-provider-panos) ⭐ 108 | 🐛 155 | 🌐 Go | 📅 2026-03-05 - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
 * [terraform-provider-heroku](https://github.com/heroku/terraform-provider-heroku) ⭐ 103 | 🐛 40 | 🌐 Go | 📅 2026-02-25 - Provider for Heroku.
 * [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) ⭐ 71 | 🐛 0 | 🌐 Go | 📅 2019-04-12 - Provider for Linode.
 * [terraform-provider-ucloud](https://github.com/ucloud/terraform-provider-ucloud) ⭐ 71 | 🐛 23 | 🌐 Go | 📅 2026-03-11 - Provider to manage UCloud resources.
-* [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) ⭐ 67 | 🐛 2 | 🌐 Go | 📅 2026-03-19 - Provider to manage healthchecks.io resources.
+* [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) ⭐ 68 | 🐛 2 | 🌐 Go | 📅 2026-03-19 - Provider to manage healthchecks.io resources.
 * [terraform-provider-atlas](https://github.com/ariga/terraform-provider-atlas) ⭐ 64 | 🐛 15 | 🌐 Go | 📅 2026-02-09 - Provider for [Atlas](https://atlasgo.io/).
 * [terraform-provider-spotinst](https://github.com/spotinst/terraform-provider-spotinst) ⭐ 64 | 🐛 33 | 🌐 Go | 📅 2026-03-27 - Provider for spotinst.
-* [terraform-provider-buildkite](https://github.com/buildkite/terraform-provider-buildkite) ⭐ 60 | 🐛 10 | 🌐 Go | 📅 2026-03-31 - Provider for Buildkite.
+* [terraform-provider-buildkite](https://github.com/buildkite/terraform-provider-buildkite) ⭐ 60 | 🐛 11 | 🌐 Go | 📅 2026-04-02 - Provider for Buildkite.
 * [terraform-provider-graphql](https://github.com/sullivtr/terraform-provider-graphql) ⭐ 59 | 🐛 6 | 🌐 Go | 📅 2026-01-22 - Provider for GraphQL queries and mutations.
 * [terraform-provider-coder](https://github.com/coder/terraform-provider-coder) ⭐ 56 | 🐛 38 | 🌐 Go | 📅 2026-03-25 - Provider for [Coder](https://coder.com)
-* [terraform-provider-confluent](https://github.com/confluentinc/terraform-provider-confluent) ⭐ 53 | 🐛 113 | 🌐 Go | 📅 2026-03-31 - Provider for Confluent.
+* [terraform-provider-confluent](https://github.com/confluentinc/terraform-provider-confluent) ⭐ 53 | 🐛 113 | 🌐 Go | 📅 2026-04-02 - Provider for Confluent.
 * [terraform-provider-secrethub](https://github.com/secrethub/terraform-provider-secrethub) ⚠️ Archived - Provider for SecretHub. :skull:
 * [terraform-provider-checkly](https://github.com/checkly/terraform-provider-checkly) ⭐ 43 | 🐛 8 | 🌐 Go | 📅 2026-03-25 - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
 * [terraform-provider-env0](https://github.com/env0/terraform-provider-env0) ⭐ 41 | 🐛 13 | 🌐 Go | 📅 2026-03-29 - Provider for [env0](https://www.env0.com/)
@@ -303,8 +303,8 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ### Community providers
 
-* [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) ⭐ 2,867 | 🐛 125 | 🌐 Go | 📅 2026-03-31 - Terraform Proxmox provider.
-* [terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ⭐ 789 | 🐛 79 | 🌐 Go | 📅 2026-03-31 - Terraform Docker provider.
+* [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) ⭐ 2,866 | 🐛 125 | 🌐 Go | 📅 2026-03-31 - Terraform Proxmox provider.
+* [terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ⭐ 789 | 🐛 75 | 🌐 Go | 📅 2026-04-01 - Terraform Docker provider.
 * [terraform-provider-minio](https://github.com/aminueza/terraform-provider-minio) ⭐ 337 | 🐛 1 | 🌐 Go | 📅 2026-03-30 - Terraform provider for managing MinIO S3 buckets and IAM Users.
 * [terraform-provider-terracurl](https://github.com/devops-rob/terraform-provider-terracurl) ⭐ 158 | 🐛 29 | 🌐 Go | 📅 2026-03-11 - Provider to make managed and unmanaged API calls to your target endpoint.
 * [terraform-provider-value](https://github.com/pseudo-dynamic/terraform-provider-value) ⭐ 17 | 🐛 0 | 🌐 Go | 📅 2022-09-24 - Value Provider for Terraform.
@@ -314,7 +314,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Testing
 
-* [terratest](https://github.com/gruntwork-io/terratest) ⭐ 7,888 | 🐛 76 | 🌐 Go | 📅 2026-03-29 - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+* [terratest](https://github.com/gruntwork-io/terratest) ⭐ 7,887 | 🐛 76 | 🌐 Go | 📅 2026-03-29 - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 * [terraform-compliance](https://github.com/terraform-compliance/cli) ⭐ 1,442 | 🐛 95 | 🌐 Python | 📅 2025-12-08 - BDD Testing for Terraform Files.
 * [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) ⚠️ Archived - Provides a set of Test Kitchen plugins which enable a system to use Test Kitchen to converge a Terraform configuration and verify the resulting Terraform state with InSpec controls. :skull:
 * [terraform\_validate](https://github.com/elmundio87/terraform_validate) ⚠️ Archived - Assists in the enforcement of user-defined standards in Terraform. :skull:
@@ -323,41 +323,41 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Tools
 
-* [terraform-bundle](https://github.com/hashicorp/terraform/tree/main/tools/terraform-bundle) ⭐ 48,010 | 🐛 1,888 | 🌐 Go | 📅 2026-03-31 - Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.
+* [terraform-bundle](https://github.com/hashicorp/terraform/tree/main/tools/terraform-bundle) ⭐ 48,004 | 🐛 1,887 | 🌐 Go | 📅 2026-04-01 - Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.
 * [terraformer](https://github.com/GoogleCloudPlatform/terraformer) ⚠️ Archived - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
-* [Infracost](https://github.com/infracost/infracost) ⭐ 12,242 | 🐛 228 | 🌐 Go | 📅 2026-03-31 - Cloud cost estimates for Terraform in your CLI and pull requests.
-* [terragrunt](https://github.com/gruntwork-io/terragrunt) ⭐ 9,434 | 🐛 194 | 🌐 Go | 📅 2026-04-01 - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
-* [atlantis](https://github.com/runatlantis/atlantis) ⭐ 8,961 | 🐛 880 | 🌐 Go | 📅 2026-04-01 - Unified workflow for collaborating on Terraform through GitHub.
-* [Checkov](https://github.com/bridgecrewio/checkov/) ⭐ 8,575 | 🐛 155 | 🌐 Python | 📅 2026-03-30 - Terraform static analysis tool for terraform>=0.12
-* [tfsec](https://github.com/aquasecurity/tfsec) ⭐ 6,968 | 🐛 14 | 🌐 Go | 📅 2026-03-25 - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
-* [tflint](https://github.com/terraform-linters/tflint) ⭐ 5,661 | 🐛 27 | 🌐 Go | 📅 2026-03-28 - Terraform linter for detecting errors that can not be detected by `terraform plan`
+* [Infracost](https://github.com/infracost/infracost) ⭐ 12,244 | 🐛 228 | 🌐 Go | 📅 2026-03-31 - Cloud cost estimates for Terraform in your CLI and pull requests.
+* [terragrunt](https://github.com/gruntwork-io/terragrunt) ⭐ 9,438 | 🐛 192 | 🌐 Go | 📅 2026-04-01 - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
+* [atlantis](https://github.com/runatlantis/atlantis) ⭐ 8,965 | 🐛 880 | 🌐 Go | 📅 2026-04-02 - Unified workflow for collaborating on Terraform through GitHub.
+* [Checkov](https://github.com/bridgecrewio/checkov/) ⭐ 8,584 | 🐛 156 | 🌐 Python | 📅 2026-04-01 - Terraform static analysis tool for terraform>=0.12
+* [tfsec](https://github.com/aquasecurity/tfsec) ⭐ 6,971 | 🐛 14 | 🌐 Go | 📅 2026-03-25 - Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
+* [tflint](https://github.com/terraform-linters/tflint) ⭐ 5,662 | 🐛 27 | 🌐 Go | 📅 2026-03-28 - Terraform linter for detecting errors that can not be detected by `terraform plan`
 * [terrascan](https://github.com/tenable/terrascan) ⚠️ Archived - Collection of security and best practice test for static code analysis of terraform templates
 * [terraform-cdk](https://github.com/hashicorp/terraform-cdk) ⚠️ Archived - CDK (Cloud Development Kit) for Terraform allows developers to use familiar programming languages to define cloud infrastructure and provision it through HashiCorp Terraform.
 * [tfenv](https://github.com/tfutils/tfenv) ⭐ 4,898 | 🐛 66 | 🌐 Shell | 📅 2025-12-01 - Terraform version manager inspired by rbenv.
 * [terraform-docs](https://github.com/terraform-docs/terraform-docs) ⭐ 4,735 | 🐛 186 | 🌐 Go | 📅 2025-12-18 - Quick utility to generate docs from terraform modules.
 * [terraforming](https://github.com/dtan4/terraforming) ⚠️ Archived - Export existing AWS resources to Terraform style (tf, tfstate). Similar to `terraformer`. :skull:
-* [AIaC](https://github.com/gofireflyio/aiac) ⭐ 3,792 | 🐛 2 | 🌐 Go | 📅 2026-03-24 - Artificial Intelligence Infrastructure-as-Code Generator
+* [AIaC](https://github.com/gofireflyio/aiac) ⭐ 3,793 | 🐛 2 | 🌐 Go | 📅 2026-03-24 - Artificial Intelligence Infrastructure-as-Code Generator
 * [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ⭐ 3,683 | 🐛 27 | 🌐 Shell | 📅 2026-03-31 - pre-commit git hooks to take care of Terraform configurations (auto-format, validate, update docs).
-* [terramate](https://github.com/terramate-io/terramate) ⭐ 3,556 | 🐛 104 | 🌐 Go | 📅 2026-03-31 - Tool for managing multiple Terraform stacks that comes with support for change detection and code generation
-* [rover](https://github.com/im2nguyen/rover) ⭐ 3,280 | 🐛 45 | 🌐 Go | 📅 2025-07-30 - Interactive Terraform state and configuration explorer.
+* [terramate](https://github.com/terramate-io/terramate) ⭐ 3,557 | 🐛 102 | 🌐 Go | 📅 2026-04-01 - Tool for managing multiple Terraform stacks that comes with support for change detection and code generation
+* [rover](https://github.com/im2nguyen/rover) ⭐ 3,281 | 🐛 45 | 🌐 Go | 📅 2025-07-30 - Interactive Terraform state and configuration explorer.
 * [driftctl](https://github.com/snyk/driftctl) ⭐ 2,631 | 🐛 147 | 🌐 Go | 📅 2026-01-30 - Detect, track, and alert on infrastructure drift :skull:
-* [KICS](https://github.com/Checkmarx/kics) ⭐ 2,607 | 🐛 292 | 🌐 Open Policy Agent | 📅 2026-03-31 - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
-* [former2](https://github.com/iann0036/former2) ⭐ 2,393 | 🐛 181 | 🌐 JavaScript | 📅 2025-06-12 - Generate terraform configuration from your existing resources within your AWS account.
-* [terracognita](https://github.com/cycloidio/terracognita) ⭐ 2,357 | 🐛 93 | 🌐 Go | 📅 2025-09-02 - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration.
-* [blast radius](https://github.com/28mm/blast-radius) ⭐ 2,185 | 🐛 47 | 🌐 JavaScript | 📅 2024-08-14 - Interactive visualizations of Terraform dependency graphs. :skull:
-* [inframap](https://github.com/cycloidio/inframap) ⭐ 2,003 | 🐛 49 | 🌐 Go | 📅 2025-08-13 - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
-* [terraboard](https://github.com/camptocamp/terraboard) ⭐ 2,002 | 🐛 17 | 🌐 Go | 📅 2026-03-26 - Web dashboard to inspect Terraform States.
-* [aztfexport](https://github.com/Azure/aztfexport) ⭐ 1,883 | 🐛 46 | 🌐 Go | 📅 2026-03-24 - A tool to bring existing Azure resources under Terraform's management.
+* [KICS](https://github.com/Checkmarx/kics) ⭐ 2,609 | 🐛 293 | 🌐 Open Policy Agent | 📅 2026-04-01 - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
+* [former2](https://github.com/iann0036/former2) ⭐ 2,394 | 🐛 181 | 🌐 JavaScript | 📅 2025-06-12 - Generate terraform configuration from your existing resources within your AWS account.
+* [terracognita](https://github.com/cycloidio/terracognita) ⭐ 2,358 | 🐛 93 | 🌐 Go | 📅 2025-09-02 - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration.
+* [blast radius](https://github.com/28mm/blast-radius) ⭐ 2,186 | 🐛 47 | 🌐 JavaScript | 📅 2024-08-14 - Interactive visualizations of Terraform dependency graphs. :skull:
+* [inframap](https://github.com/cycloidio/inframap) ⭐ 2,005 | 🐛 49 | 🌐 Go | 📅 2025-08-13 - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
+* [terraboard](https://github.com/camptocamp/terraboard) ⭐ 2,003 | 🐛 17 | 🌐 Go | 📅 2026-03-26 - Web dashboard to inspect Terraform States.
+* [aztfexport](https://github.com/Azure/aztfexport) ⭐ 1,884 | 🐛 46 | 🌐 Go | 📅 2026-04-02 - A tool to bring existing Azure resources under Terraform's management.
 * [terraform-landscape](https://github.com/coinbase/terraform-landscape) ⭐ 1,626 | 🐛 33 | 🌐 Ruby | 📅 2024-03-20 - *(only 0.11 and earlier)* Improve Terraform's plan output to be easier to read and understand.
-* [terravision](https://github.com/patrickchugh/terravision) ⭐ 1,441 | 🐛 23 | 🌐 Python | 📅 2026-03-29 - Generates professional cloud architecture diagrams from Terraform code using official AWS/Azure/GCP icons and design standards. Runs 100% client-side with CI/CD integration.
+* [terravision](https://github.com/patrickchugh/terravision) ⭐ 1,443 | 🐛 23 | 🌐 Python | 📅 2026-03-29 - Generates professional cloud architecture diagrams from Terraform code using official AWS/Azure/GCP icons and design standards. Runs 100% client-side with CI/CD integration.
+* [tenv](https://github.com/tofuutils/tenv) ⭐ 1,341 | 🐛 49 | 🌐 Go | 📅 2026-03-27 - OpenTofu/Terraform/Terragrunt version manager.
 * [cf-terraforming](https://github.com/cloudflare/cf-terraforming) ⭐ 1,339 | 🐛 15 | 🌐 Go | 📅 2026-03-23 A command line utility to facilitate terraforming your existing Cloudflare resources.
-* [tenv](https://github.com/tofuutils/tenv) ⭐ 1,339 | 🐛 49 | 🌐 Go | 📅 2026-03-27 - OpenTofu/Terraform/Terragrunt version manager.
-* [atmos](https://github.com/cloudposse/atmos) ⭐ 1,281 | 🐛 230 | 🌐 Go | 📅 2026-04-01 - A universal tool that converts deep merged YAML to module inputs. :alien:
+* [atmos](https://github.com/cloudposse/atmos) ⭐ 1,280 | 🐛 235 | 🌐 Go | 📅 2026-04-02 - A universal tool that converts deep merged YAML to module inputs. :alien:
 * [tftui](https://github.com/idoavrah/terraform-tui) ⭐ 1,275 | 🐛 11 | 🌐 Python | 📅 2024-07-09 - A textual user interface for Terraform state.
 * [tfmigrate](https://github.com/minamijoyo/tfmigrate) ⭐ 1,260 | 🐛 23 | 🌐 Go | 📅 2025-12-22 - A Terraform state migration tool for GitOps.
 * [k2tf](https://github.com/sl1pm4t/k2tf) ⭐ 1,228 | 🐛 28 | 🌐 Go | 📅 2025-12-12 - Kubernetes YAML to Terraform HCL converter.
 * [layerform](https://github.com/briefercloud/layerform) ⚠️ Archived - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments. :skull:
-* [gaia](https://github.com/gaia-app/gaia) ⭐ 1,075 | 🐛 75 | 🌐 Java | 📅 2023-03-30 - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻. :skull:
+* [gaia](https://github.com/gaia-app/gaia) ⭐ 1,074 | 🐛 75 | 🌐 Java | 📅 2023-03-30 - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻. :skull:
 * [tfk8s](https://github.com/jrhouston/tfk8s) ⭐ 1,053 | 🐛 25 | 🌐 Go | 📅 2024-01-17 - A tool for converting Kubernetes YAML manifests to Terraform HCL
 * [terratag](https://github.com/env0/terratag) ⭐ 1,045 | 🐛 5 | 🌐 Go | 📅 2026-03-26 - Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources.
 * [yj](https://github.com/sclevine/yj) ⭐ 1,040 | 🐛 23 | 🌐 Go | 📅 2024-01-01 - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
@@ -370,9 +370,9 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) ⭐ 819 | 🐛 11 | 🌐 JavaScript | 📅 2026-03-22 - Small tool to convert an IAM Policy in JSON format into a Terraform aws\_iam\_policy\_document
 * [tads-boilerplate](https://github.com/Thomvaill/tads-boilerplate) ⚠️ Archived - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.
 * [aws2tf](https://github.com/aws-samples/aws2tf) ⭐ 740 | 🐛 0 | 🌐 Python | 📅 2026-03-10 - automates the importing of existing AWS resources into Terraform and outputs the Terraform HCL code.
-* [terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) ⭐ 735 | 🐛 85 | 🌐 HCL | 📅 2025-11-20 - Generate Atlantis config for Terragrunt projects.
-* [tf-summarize](https://github.com/dineshba/tf-summarize) ⭐ 682 | 🐛 25 | 🌐 Go | 📅 2026-03-20 - A command-line utility to print the summary of the terraform plan
-* [pug](https://github.com/leg100/pug) ⭐ 670 | 🐛 20 | 🌐 Go | 📅 2026-01-02 - The terminal user interface for terraform power users.
+* [terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) ⭐ 736 | 🐛 85 | 🌐 HCL | 📅 2025-11-20 - Generate Atlantis config for Terragrunt projects.
+* [tf-summarize](https://github.com/dineshba/tf-summarize) ⭐ 683 | 🐛 25 | 🌐 Go | 📅 2026-03-20 - A command-line utility to print the summary of the terraform plan
+* [pug](https://github.com/leg100/pug) ⭐ 672 | 🐛 20 | 🌐 Go | 📅 2026-01-02 - The terminal user interface for terraform power users.
 * [Terraform-Visual](https://github.com/hieven/terraform-visual) ⭐ 662 | 🐛 36 | 🌐 TypeScript | 📅 2023-10-26 - A simple but powerful tool to visualize Terraform plan.
 * [tfupdate](https://github.com/minamijoyo/tfupdate) ⭐ 646 | 🐛 14 | 🌐 Go | 📅 2025-11-20 - Update version constraints in your Terraform configurations.
 * [hcledit](https://github.com/minamijoyo/hcledit) ⭐ 534 | 🐛 21 | 🌐 Go | 📅 2025-04-10 - A command line editor for HCL.
@@ -383,27 +383,27 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform.py](https://github.com/mantl/terraform.py) ⚠️ Archived - Ansible dynamic inventory script for parsing Terraform state files. :skull:
 * [astro](https://github.com/uber/astro/) ⭐ 436 | 🐛 23 | 🌐 Go | 📅 2023-03-19 - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
 * [Shisho](https://github.com/flatt-security/shisho) ⚠️ Archived - Lightweight static analyzer for Terraform.
-* [terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) ⭐ 386 | 🐛 10 | 🌐 Go | 📅 2024-04-29 - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
+* [terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) ⭐ 387 | 🐛 10 | 🌐 Go | 📅 2024-04-29 - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
 * [terraform-operator](https://github.com/GalleyBytes/terraform-operator) ⭐ 380 | 🐛 26 | 🌐 Go | 📅 2025-12-09 - A Kubernetes CRD to handle Terraform operations.
 * [terrahelp](https://github.com/opencredo/terrahelp) ⭐ 379 | 🐛 8 | 🌐 Go | 📅 2023-03-24 - Command line utility aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
-* [tfaction](https://github.com/suzuki-shunsuke/tfaction) ⭐ 378 | 🐛 63 | 🌐 TypeScript | 📅 2026-03-30 - GitHub Actions collection for Opinionated Terraform Workflow
+* [tfaction](https://github.com/suzuki-shunsuke/tfaction) ⭐ 379 | 🐛 63 | 🌐 TypeScript | 📅 2026-04-01 - GitHub Actions collection for Opinionated Terraform Workflow
 * [tfmcp](https://github.com/nwiizo/tfmcp) ⭐ 360 | 🐛 0 | 🌐 Rust | 📅 2026-03-26 - A CLI tool that helps you interact with Terraform via the Model Context Protocol (MCP), allowing AI assistants like Claude to manage and operate Terraform environments.
 * [scenery](https://github.com/dmlittle/scenery) ⚠️ Archived - Another Terraform plan output prettifier. :ghost: :skull:
 * [modules.tf-lambda](https://github.com/antonbabenko/modules.tf-lambda) ⭐ 356 | 🐛 15 | 🌐 Python | 📅 2021-08-20 - Infrastructure as code generator from visual diagrams created with [Cloudcraft.co](https://cloudcraft.co/app) to Terraform.
 * [pipeform](https://github.com/magodo/pipeform) ⭐ 349 | 🐛 1 | 🌐 Go | 📅 2025-01-31 - Terraform runtime TUI
 * [terraform-iam-policy-validator](https://github.com/awslabs/terraform-iam-policy-validator) ⭐ 345 | 🐛 15 | 🌐 Python | 📅 2025-06-09 - CLI validates AWS IAM Policies in a Terraform template against AWS IAM best practices.
-* [terracost](https://github.com/cycloidio/terracost) ⭐ 337 | 🐛 22 | 🌐 Go | 📅 2025-11-24 - Cloud cost estimation for Terraform in your CLI.
+* [terracost](https://github.com/cycloidio/terracost) ⭐ 338 | 🐛 22 | 🌐 Go | 📅 2025-11-24 - Cloud cost estimation for Terraform in your CLI.
 * [terraform-aws-clickops-notifier](https://github.com/cloudandthings/terraform-aws-clickops-notifier) ⭐ 331 | 🐛 23 | 🌐 Python | 📅 2025-01-20 - Get notified when actions are taken in the AWS Console.
 * [tfschema](https://github.com/minamijoyo/tfschema) ⭐ 314 | 🐛 4 | 🌐 Go | 📅 2025-04-10 - Schema inspector for Terraform providers.
 * [fogg](https://github.com/chanzuckerberg/fogg) ⭐ 307 | 🐛 4 | 🌐 Go | 📅 2026-03-30 - A tool for eliminating toil in managing terraform repositories.
 * [tfscaffold](https://github.com/tfutils/tfscaffold) ⭐ 281 | 🐛 12 | 🌐 HCL | 📅 2025-02-12 - Framework for controlling multi-environment multi-component terraform-managed AWS infrastructure.
 * [tftarget](https://github.com/future-architect/tftarget) ⭐ 274 | 🐛 13 | 🌐 Go | 📅 2024-12-24 - CLI Tool to do `terraform xxx -target={...}` interactively.
-* [asdf](https://github.com/asdf-community/asdf-hashicorp) ⭐ 261 | 🐛 15 | 🌐 Shell | 📅 2026-01-01 - HashiCorp plugin for the [asdf](https://github.com/asdf-vm/asdf) ⭐ 25,214 | 🐛 181 | 🌐 Go | 📅 2026-03-30 version manager
+* [asdf](https://github.com/asdf-community/asdf-hashicorp) ⭐ 261 | 🐛 15 | 🌐 Shell | 📅 2026-01-01 - HashiCorp plugin for the [asdf](https://github.com/asdf-vm/asdf) ⭐ 25,215 | 🐛 180 | 🌐 Go | 📅 2026-04-01 version manager
 * [tfsort](https://github.com/AlexNabokikh/tfsort) ⭐ 237 | 🐛 14 | 🌐 Go | 📅 2025-10-01 - CLI utility to sort Terraform variables and outputs.
 * [validIaC](https://github.com/gofireflyio/validiac) ⭐ 235 | 🐛 14 | 🌐 TypeScript | 📅 2025-05-08 - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
 * [tfvar](https://github.com/shihanng/tfvar) ⭐ 230 | 🐛 4 | 🌐 Go | 📅 2026-03-11 - tfvar scans your Terraform configurations or modules and extracts the variables into formats of your choice (tfvar, environment variables, etc.) for editing.
-* [terrahub](https://github.com/tfxor/terrahub) ⭐ 225 | 🐛 19 | 🌐 Twig | 📅 2022-04-16 - TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy\_dollar\_sign:
 * [tofuenv](https://github.com/tofuutils/tofuenv) ⭐ 225 | 🐛 21 | 🌐 Shell | 📅 2026-02-10 - OpenTofu version manager inspired by tfenv
+* [terrahub](https://github.com/tfxor/terrahub) ⭐ 224 | 🐛 19 | 🌐 Twig | 📅 2022-04-16 - TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy\_dollar\_sign:
 * [tfmask](https://github.com/cloudposse-archives/tfmask) ⚠️ Archived - Terraform utility to mask select output from `terraform plan` and `terraform apply`
 * [stacks](https://github.com/cisco-open/stacks) ⭐ 189 | 🐛 5 | 🌐 Python | 📅 2026-03-29 - Stacks, the Terraform code pre-processor
 * [prettyplan](https://github.com/chrislewisdev/prettyplan) ⭐ 187 | 🐛 1 | 🌐 TypeScript | 📅 2019-10-08 - Prettyplan ([available online here](https://chrislewisdev.github.io/prettyplan/)) is a small tool to help you view large Terraform plans with ease. :ghost:
@@ -422,7 +422,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terrars](https://github.com/andrewbaxter/terrars) ⭐ 114 | 🐛 3 | 🌐 Rust | 📅 2024-07-21 - Terrars is a tool for building Terraform stacks in Rust. This is an alternative to the CDK.
 * [ruby-terraform](https://github.com/infrablocks/ruby_terraform) ⭐ 112 | 🐛 4 | 🌐 Ruby | 📅 2026-03-24 - Simple Ruby wrapper for invoking terraform commands.
 * [tgf](https://github.com/coveooss/tgf) ⭐ 110 | 🐛 16 | 🌐 Go | 📅 2026-03-30 - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
-* [sato](https://github.com/JamesWoolfenden/sato) ⭐ 109 | 🐛 2 | 🌐 Go | 📅 2026-03-30 - Sato helps you convert your legacy Cloudformation into Terraform.
+* [sato](https://github.com/JamesWoolfenden/sato) ⭐ 109 | 🐛 1 | 🌐 Go | 📅 2026-04-02 - Sato helps you convert your legacy Cloudformation into Terraform.
 * [pretf](https://github.com/raymondbutcher/pretf) ⭐ 105 | 🐛 19 | 🌐 Python | 📅 2022-08-11 - drop-in Terraform wrapper that generates Terraform configuration with Python. See [pretf documentation](https://pretf.readthedocs.io/en/latest/) :skull:
 * [tfedit](https://github.com/minamijoyo/tfedit) ⭐ 103 | 🐛 3 | 🌐 Go | 📅 2025-04-10 - A refactoring tool for Terraform.
 * [hclgrep](https://github.com/magodo/hclgrep) ⭐ 97 | 🐛 1 | 🌐 Go | 📅 2024-03-07 - Syntax based grep for HCL(v2).
@@ -449,6 +449,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [python-terrafile](https://github.com/claranet/python-terrafile) ⭐ 38 | 🐛 3 | 🌐 Python | 📅 2019-10-17 - Systematically manage external modules from Github for use in Terraform.
 * [terraboot](https://github.com/MastodonC/terraboot) ⭐ 38 | 🐛 0 | 🌐 Clojure | 📅 2018-03-19 - DSL to generate a terraform configuration and run it.
 * [fuzzy-terraform-rm](https://github.com/paololazzari/fuzzy-terraform-rm) ⭐ 36 | 🐛 0 | 🌐 Go | 📅 2023-11-21 - A fuzzy-finder command-line tool for removing resources from terraform state.
+* [cloud-audit](https://github.com/gebalamariusz/cloud-audit) ⭐ 35 | 🐛 5 | 🌐 Python | 📅 2026-04-01 - AWS security auditing CLI with remediation engine that generates Terraform code for fixing misconfigurations.
 * [terraeasy](https://github.com/jaceq/terraeasy) ⭐ 35 | 🐛 1 | 🌐 Shell | 📅 2024-11-18 - Easy Terraform wrapper
 * [tfmigrator](https://github.com/tfmigrator/cli) ⚠️ Archived - Go library and CLI to migrate Terraform Configuration and State
 * [scratchrelaxtv](https://github.com/YakDriver/scratchrelaxtv) ⭐ 34 | 🐛 14 | 🌐 Python | 📅 2023-03-13 - Simple Python tool to help with module development - extract vars from `main.tf` to generate `variables.tf` and make module usage stub from `variables.tf`.
@@ -456,8 +457,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [tfrepl](https://github.com/ysoftwareab/tfrepl) ⭐ 32 | 🐛 0 | 🌐 Shell | 📅 2023-06-11 - A Terraform REPL, giving you a full shell experience. Readline based. No dependencies. Save config changes. History.
 * [drifthound](https://github.com/treezio/drifthound) ⭐ 29 | 🐛 14 | 🌐 Ruby | 📅 2026-03-06 - Continuous infrastructure drift detection with historical tracking and notifications.
 * [tfmake](https://github.com/tfmake/tfmake) ⭐ 28 | 🐛 0 | 🌐 Shell | 📅 2025-06-29 - Automating Terraform with the power of make.
-* [cloud-audit](https://github.com/gebalamariusz/cloud-audit) ⭐ 27 | 🐛 5 | 🌐 Python | 📅 2026-03-31 - AWS security auditing CLI with remediation engine that generates Terraform code for fixing misconfigurations.
-* [terrascope](https://github.com/spilliams/terrascope) ⭐ 27 | 🐛 48 | 🌐 Go | 📅 2026-03-04 - Build orchestrator for terraform monorepos.
+* [terrascope](https://github.com/spilliams/terrascope) ⭐ 27 | 🐛 48 | 🌐 Go | 📅 2026-04-01 - Build orchestrator for terraform monorepos.
 * [flora](https://github.com/ketchoop/flora) ⭐ 26 | 🐛 11 | 🌐 Go | 📅 2022-10-07 - Terraform version manager.
 * [trupositive](https://github.com/trupositive-ai/trupositive) ⭐ 14 | 🐛 3 | 🌐 Shell | 📅 2026-02-27 - Zero-config wrapper that automatically injects Git metadata (commit SHA, branch, repo) into all Terraform-managed resources.
 * [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2017-08-06 - Tool for managing multiple provisions of the same Terraform scripts.
@@ -488,8 +488,8 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ### CI
 
-* [setup-terraform](https://github.com/hashicorp/setup-terraform) ⭐ 1,556 | 🐛 69 | 🌐 JavaScript | 📅 2026-03-16 - Sets up Terraform CLI in your GitHub Actions workflow.
-* [terraform-plan](https://github.com/cds-snc/terraform-plan) ⭐ 65 | 🐛 15 | 🌐 JavaScript | 📅 2026-03-31 - GitHub Action to run Terraform plan and add a comment with the changes.
+* [setup-terraform](https://github.com/hashicorp/setup-terraform) ⭐ 1,558 | 🐛 69 | 🌐 JavaScript | 📅 2026-03-16 - Sets up Terraform CLI in your GitHub Actions workflow.
+* [terraform-plan](https://github.com/cds-snc/terraform-plan) ⭐ 64 | 🐛 15 | 🌐 JavaScript | 📅 2026-04-02 - GitHub Action to run Terraform plan and add a comment with the changes.
 
 ### IDE
 
@@ -499,12 +499,12 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 ## Libraries
 
 * [pyhcl](https://github.com/virtuald/pyhcl) ⭐ 340 | 🐛 12 | 🌐 Python | 📅 2026-01-20 - HCL parser in Python
-* [python-hcl2](https://github.com/amplify-education/python-hcl2/) ⭐ 303 | 🐛 21 | 🌐 Python | 📅 2026-03-31 - HCL2 parser in Python
-* [hcl-rs](https://github.com/martinohmann/hcl-rs) ⭐ 176 | 🐛 12 | 🌐 Rust | 📅 2026-04-01 - HCL parsing and encoding libraries for rust with serde support
+* [python-hcl2](https://github.com/amplify-education/python-hcl2/) ⭐ 304 | 🐛 21 | 🌐 Python | 📅 2026-04-01 - HCL2 parser in Python
+* [hcl-rs](https://github.com/martinohmann/hcl-rs) ⭐ 176 | 🐛 7 | 🌐 Rust | 📅 2026-04-01 - HCL parsing and encoding libraries for rust with serde support
 * [tree-sitter-hcl](https://github.com/tree-sitter-grammars/tree-sitter-hcl) ⭐ 135 | 🐛 7 | 🌐 HCL | 📅 2026-01-17 - HCL grammar for tree-sitter
 * [hcl4j](https://github.com/bertramdev/hcl4j) ⭐ 73 | 🐛 12 | 🌐 Java | 📅 2025-08-28 - HCL parser in Java
 * [rhcl](https://github.com/winebarrel/rhcl) ⚠️ Archived - Pure Ruby HCL parser :skull:
-* [nu\_plugin\_hcl](https://github.com/Yethal/nu_plugin_hcl) ⭐ 14 | 🐛 0 | 🌐 Rust | 📅 2026-03-03 - HCL parser plugin for [Nushell](https://github.com/nushell/nushell) ⭐ 38,863 | 🐛 1,479 | 🌐 Rust | 📅 2026-04-01
+* [nu\_plugin\_hcl](https://github.com/Yethal/nu_plugin_hcl) ⭐ 14 | 🐛 0 | 🌐 Rust | 📅 2026-03-03 - HCL parser plugin for [Nushell](https://github.com/nushell/nushell) ⭐ 38,876 | 🐛 1,487 | 🌐 Rust | 📅 2026-04-01
 
 ## Boilerplates
 
@@ -513,9 +513,9 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Self-hosted Terraform Platforms
 
-* [Burrito](https://github.com/padok-team/burrito) ⭐ 704 | 🐛 59 | 🌐 Go | 📅 2026-03-31 - TACoS Kubernetes Operator - "ArgoCD for Terraform"
-* [OTF](https://github.com/leg100/otf) ⭐ 662 | 🐛 11 | 🌐 Go | 📅 2026-03-31 - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
-* [Lynx](https://github.com/clivern/lynx) ⭐ 366 | 🐛 21 | 🌐 Elixir | 📅 2026-03-31 - Fast, Secure and Reliable Terraform Backend. It has a user-friendly dashboard, project and environment management, state versioning, locking and snapshots support.
+* [Burrito](https://github.com/padok-team/burrito) ⭐ 705 | 🐛 59 | 🌐 Go | 📅 2026-04-01 - TACoS Kubernetes Operator - "ArgoCD for Terraform"
+* [OTF](https://github.com/leg100/otf) ⭐ 663 | 🐛 11 | 🌐 Go | 📅 2026-04-01 - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
+* [Lynx](https://github.com/clivern/lynx) ⭐ 366 | 🐛 21 | 🌐 Elixir | 📅 2026-04-01 - Fast, Secure and Reliable Terraform Backend. It has a user-friendly dashboard, project and environment management, state versioning, locking and snapshots support.
 * [Stack-Lifecycle-Deployment](https://github.com/D10S0VSkY-OSS/Stack-Lifecycle-Deployment) ⭐ 262 | 🐛 17 | 🌐 CSS | 📅 2026-03-29 - OpenSource solution that defines and manages the complete lifecycle of resources used and provisioned into a cloud.
 * [cloud-concierge](https://github.com/dragondrop-cloud/cloud-concierge) ⭐ 246 | 🐛 41 | 🌐 Go | 📅 2025-10-19 - Open Source, codify unmanaged resources as Terraform, detect drift, and cloud cost and security analysis, delivered as a Pull Request.
 * [Terrakube](https://docs.terrakube.io) - Open Source alternative to Terraform Enterprise with private registry, remote state, custom flows, scheduled workspaces, and visual states.
